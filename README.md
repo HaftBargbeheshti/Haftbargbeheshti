@@ -1,5 +1,5 @@
 ## Hi there 👋
-من از شیراز هستم - زمینه فعالیتم هوش مصنوعی و کامپیوتر است
+-  من از شیراز هستم - زمینه فعالیتم هوش مصنوعی و کامپیوتر است امرروز کلاس هوش داریم
 <!--
 **HaftBargbeheshti/Haftbargbeheshti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
